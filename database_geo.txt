@@ -1,0 +1,39 @@
+geo_land
+	name
+	ars_land
+geo_regierungsbezirk
+	name
+	ars_land
+	ars_rb
+geo_region
+	name
+	ars_land
+	ars_rb
+	ars_kreis
+geo_kreis
+	name
+	ars_land
+	ars_rb
+	ars_kreis
+geo_gemeindeverband
+	name
+	ars_land
+	ars_rb
+	ars_kreis
+	ars_vb
+geo_gemeinde
+	name
+	ars_land
+	ars_rb
+	ars_kreis
+	ars_vb
+	ars_gem
+	flaeche
+	postleitzahl
+	bevoelkerung_insgesamt
+	bevoelkerung_maennlich
+	bevoelkerung_weiblich
+	bevoelkerung_pro_flaeche
+	ort_laengengrad
+	ort_breitengrad
+	verstaedterung
