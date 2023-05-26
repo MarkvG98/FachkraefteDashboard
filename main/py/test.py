@@ -15,4 +15,25 @@ response_json = response.json()
 
 token = response_json.get("access_token")
 
-print(token)
+url = "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobs"
+headers = {
+    "OAuthAccessToken": token
+}
+
+params = {
+    "angebotsart": "1",
+    "wo": "Berlin",
+    "umkreis": "200",
+    "arbeitszeit": "ho;mj",
+    "page": "1",
+    "size": "25",
+    "pav": "false"
+}
+
+response = requests.get(url, headers=headers, params=params)
+jobs = response.json()['stellenangebote']
+
+
+for job in jobs:
+    print(job['titel'])
+#print(jobs)
