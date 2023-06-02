@@ -1,5 +1,5 @@
 import csv
-
+import json
 
 class Land:
     def __init__(self, id, name, ars_land):
@@ -26,7 +26,7 @@ class Region:
 
 
 class Kreis:
-    def __init__(self, id, name, ars_land, ars_rb, ars_kreis):
+    def __init__(self, id, name, ars_land, ars_rb, ):
         self.id = id
         self.name = name
         self.ars_land = ars_land
