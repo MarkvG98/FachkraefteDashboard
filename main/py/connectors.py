@@ -30,15 +30,8 @@ class RestApiConnector:
             "umkreis": "200",
             "arbeitszeit": "ho;mj",
             "page": "1",
-            "size": "25",
+            "size": "100",
             "pav": "false"
         }
         response = requests.get(url, headers=headers, params=params)
         return response
-
-con = RestApiConnector()
-jobs = con.getHTTPResponse().json()['stellenangebote']
-for job in jobs:
-    print(job['titel']+"-->"+job['beruf'])
-
-print(jobs)
