@@ -7,6 +7,6 @@ f = open(home_path+'geo_dataset.json')
 data = json.load(f)
   
 for gemeinde in data['gemeinden']:
-    print(gemeinde['postleitzahl'])
+    print(gemeinde['id'] + " " + gemeinde['postleitzahl'])
   
 f.close()
