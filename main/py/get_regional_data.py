@@ -26,7 +26,7 @@ class Region:
 
 
 class Kreis:
-    def __init__(self, id, name, ars_land, ars_rb, ):
+    def __init__(self, id, name, ars_land, ars_rb, ars_kreis):
         self.id = id
         self.name = name
         self.ars_land = ars_land
