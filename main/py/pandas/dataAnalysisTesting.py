@@ -19,7 +19,7 @@ def set_pandas_display_options() -> None:
 set_pandas_display_options()
 
 
-def getDictForPages(pagesToShow: int) -> []:
+def getDictForDE(pagesToShow: int) -> []:
     data = []
     for index in range(pagesToShow):
         jobsForPage = con.getHTTPResponse(index + 1).json()
@@ -44,15 +44,17 @@ def getPostalData() -> []:
     cityCodes = json.load(f)
     for gemeinde in cityCodes["gemeinden"]:
         dict = {
-            "id": gemeinde.get("id", None),
+            #Rausgenommen weil nicht zuordbar
+            #"id": gemeinde.get("id", None),
             "plz": gemeinde.get("postleitzahl", None)
         }
-        data.append(dict)
+        if(dict not in data):
+            data.append(dict)
     f.close()
     return data
 
 
-data = getDictForPages(15)
+data = getDictForDE(15)
 cityData = getPostalData()
 
 df_codes = pd.DataFrame.from_dict(cityData)
@@ -61,4 +63,4 @@ df_nach_stellenangeboten.sort_values(by=["beruf"])
 df_nach_stellenangeboten = pd.merge(df_nach_stellenangeboten,df_codes,how='inner',on=["plz","plz"])
 print(df_nach_stellenangeboten)
 
-#print(df_codes)
+
