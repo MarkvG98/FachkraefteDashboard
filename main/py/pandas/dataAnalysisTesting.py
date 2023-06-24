@@ -7,6 +7,7 @@ import json
 con = RestApiConnector()
 
 
+
 def set_pandas_display_options() -> None:
     # Ref: https://stackoverflow.com/a/52432757/
     display = pd.options.display
@@ -28,7 +29,7 @@ def getDictForDE(pagesToShow: int, postalCodes: []) -> []:
             ps = psDict.get('plz')
 
             jobsForPage = con.getHTTPResponse(1, ps).json()
-            #Gibt es Stellenangebote in der Page oder ist die leer?
+            # Gibt es Stellenangebote in der Page oder ist die leer?
             if jobsForPage.get("maxErgebnisse") >= 1:
                 for entity in jobsForPage["stellenangebote"]:
                     dict = {
@@ -43,16 +44,17 @@ def getDictForDE(pagesToShow: int, postalCodes: []) -> []:
                     data.append(dict)
                 # Ja, das muss hier wirklich stehen, damit die API einen nicht rauswirft.
             time.sleep(1)
-            print("Ping"+str(it))
-            it+=1
-            if len(data) == 2100:
-                df_codes = pd.DataFrame.from_dict(cityData)
+            print("Ping" + str(it))
+            it += 1
+            if len(data) >= 100:
+                df_codes = pd.DataFrame.from_dict(getPostalData())
                 df_nach_stellenangeboten = pd.DataFrame.from_dict(data)
                 df_nach_stellenangeboten.sort_values(by=["beruf"])
                 df_nach_stellenangeboten = pd.merge(df_nach_stellenangeboten, df_codes, how='inner', on=["plz", "plz"])
                 dfjson = df_nach_stellenangeboten.to_json(orient="records")
-                file = open("returnData.json")
-                json.write(dfjson)
+                with open('returnData.json', 'w') as file:
+                    json.dump(dfjson, file)
+                    return data
 
     return data
 
@@ -76,9 +78,8 @@ def getPostalData() -> []:
 
 codes = getPostalData()
 data = getDictForDE(400, codes)
-cityData = getPostalData()
 
-df_codes = pd.DataFrame.from_dict(cityData)
+df_codes = pd.DataFrame.from_dict(codes)
 df_nach_stellenangeboten = pd.DataFrame.from_dict(data)
 df_nach_stellenangeboten.sort_values(by=["beruf"])
 df_nach_stellenangeboten = pd.merge(df_nach_stellenangeboten, df_codes, how='inner', on=["plz", "plz"])
