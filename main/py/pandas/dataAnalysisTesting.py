@@ -43,19 +43,18 @@ def getDictForDE(pagesToShow: int):
                         }
                         data.append(dict)
                     # Ja, das muss hier wirklich stehen, damit die API einen nicht rauswirft.
-                    print("Jobs bei Ortschaft " + ps + " auf Seite " + str(i+1) + " gefunden")
+                    print("Jobs bei Ortschaft " + ps + " auf Seite " + str(i + 1) + " gefunden")
                     it += 1
         print("Ortschaft " + ps + " abgearbeitet")
-    df_codes = pd.DataFrame.from_dict(getPostalData())
-    df_nach_stellenangeboten = pd.DataFrame.from_dict(data)
-    df_nach_stellenangeboten.sort_values(by=["beruf"])
-    df_nach_stellenangeboten = pd.merge(df_nach_stellenangeboten, df_codes, how='inner', on=["plz", "plz"])
-    dfjson = df_nach_stellenangeboten.to_json(orient="records")
-    with open('returnData.json', 'w') as file:
-        json.dump(dfjson, file)
-    print(df_nach_stellenangeboten)
-    # return data
-
+        if len(data) >= 100:
+            df_codes = pd.DataFrame.from_dict(getPostalData())
+            df_nach_stellenangeboten = pd.DataFrame.from_dict(data)
+            df_nach_stellenangeboten.sort_values(by=["beruf"])
+            df_nach_stellenangeboten = pd.merge(df_nach_stellenangeboten, df_codes, how='inner', on=["plz", "plz"])
+            dfjson = df_nach_stellenangeboten.to_json(orient="records")
+            with open('returnData.json', 'w') as file:
+                json.dump(dfjson, file)
+            data.clear()
 
 def getPostalData() -> []:
     home_path = '../../import/geo_dataset.json'
