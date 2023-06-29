@@ -52,7 +52,7 @@ def getDictForDE(pagesToShow: int):
             df_nach_stellenangeboten.sort_values(by=["beruf"])
             df_nach_stellenangeboten = pd.merge(df_nach_stellenangeboten, df_codes, how='inner', on=["plz", "plz"])
             dfjson = df_nach_stellenangeboten.to_json(orient="records")
-            with open('returnData.json', 'w') as file:
+            with open('returnData.json', 'a') as file:
                 json.dump(dfjson, file)
             data.clear()
 
