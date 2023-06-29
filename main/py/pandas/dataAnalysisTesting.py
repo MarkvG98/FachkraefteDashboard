@@ -39,14 +39,17 @@ def getDictForDE(pagesToShow: int):
                             "arbeitgeber": entity.get("arbeitgeber", None),
                             "eintrittsdatum": entity.get("eintrittsdatum", None),
                             "entfernung": entity.get("arbeitsort", "").get("entfernung", None),
-                            "plz": entity.get("arbeitsort", "").get("plz", None)
+                            "plz": entity.get("arbeitsort", "").get("plz", None),
+                            "lat": entity.get("arbeitsort","").get("lat",None),
+                            "lon": entity.get("arbeitsort","").get("lon",None)
                         }
                         data.append(dict)
                     # Ja, das muss hier wirklich stehen, damit die API einen nicht rauswirft.
                     print("Jobs bei Ortschaft " + ps + " auf Seite " + str(i + 1) + " gefunden")
                     it += 1
         print("Ortschaft " + ps + " abgearbeitet")
-        if len(data) >= 100:
+        #Zwischenspeichern falls der Gerät uns abraucht
+        if len(data) >= 1000:
             df_codes = pd.DataFrame.from_dict(getPostalData())
             df_nach_stellenangeboten = pd.DataFrame.from_dict(data)
             df_nach_stellenangeboten.sort_values(by=["beruf"])
