@@ -19,7 +19,7 @@ def set_pandas_display_options() -> None:
 set_pandas_display_options()
 
 
-def getDictForDE(pagesToShow: int):
+def getDictForDE(pagesToShow: int, onlyCompleteDatasets: bool):
     data = []
     it = 1
     for psDict in getPostalData():
@@ -40,24 +40,28 @@ def getDictForDE(pagesToShow: int):
                             "eintrittsdatum": entity.get("eintrittsdatum", None),
                             "entfernung": entity.get("arbeitsort", "").get("entfernung", None),
                             "plz": entity.get("arbeitsort", "").get("plz", None),
-                            "lat": entity.get("arbeitsort","").get("lat",None),
-                            "lon": entity.get("arbeitsort","").get("lon",None)
+                            "lat": entity.get("arbeitsort", "").get("koordinaten","").get("lat", None),
+                            "lon": entity.get("arbeitsort", "").get("koordinaten","").get("lon", None)
                         }
-                        data.append(dict)
+
+                        if onlyCompleteDatasets:
+                            if None not in dict:
+                                data.append(dict)
                     # Ja, das muss hier wirklich stehen, damit die API einen nicht rauswirft.
                     print("Jobs bei Ortschaft " + ps + " auf Seite " + str(i + 1) + " gefunden")
                     it += 1
         print("Ortschaft " + ps + " abgearbeitet")
-        #Zwischenspeichern falls der Gerät uns abraucht
-        if len(data) >= 1000:
+        # Zwischenspeichern falls der Gerät uns abraucht
+        if len(data) >= 100:
             df_codes = pd.DataFrame.from_dict(getPostalData())
             df_nach_stellenangeboten = pd.DataFrame.from_dict(data)
             df_nach_stellenangeboten.sort_values(by=["beruf"])
             df_nach_stellenangeboten = pd.merge(df_nach_stellenangeboten, df_codes, how='inner', on=["plz", "plz"])
             dfjson = df_nach_stellenangeboten.to_json(orient="records")
             with open('returnData.json', 'a') as file:
-                json.dump(dfjson, file)
+                json.dump(json.loads(dfjson), file)
             data.clear()
+
 
 def getPostalData() -> []:
     home_path = '../../import/geo_dataset.json'
