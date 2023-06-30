@@ -49,10 +49,11 @@ def getDictForDE(pagesToShow: int, onlyCompleteDatasets: bool):
                                 data.append(dict)
                     # Ja, das muss hier wirklich stehen, damit die API einen nicht rauswirft.
                     print("Jobs bei Ortschaft " + ps + " auf Seite " + str(i + 1) + " gefunden")
+                    print("Insgesamt "+str(len(data))+ "Jobs")
                     it += 1
         print("Ortschaft " + ps + " abgearbeitet")
         # Zwischenspeichern falls der Gerät uns abraucht
-        if len(data) >= 100:
+        if len(data) >= 1250:
             df_codes = pd.DataFrame.from_dict(getPostalData())
             df_nach_stellenangeboten = pd.DataFrame.from_dict(data)
             df_nach_stellenangeboten.sort_values(by=["beruf"])
