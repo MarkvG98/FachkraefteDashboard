@@ -1,0 +1,634 @@
+GENESIS-Tabelle: 12211-1003
+Bevölkerung, Erwerbstätige, Erwerbslose, Erwerbspersonen,;;;;;;;;
+Nichterwerbspersonen aus Hauptwohnsitzhaush.: Bundesländer,;;;;;;;;
+Jahre, Geschlecht, Größenkl. persönl. monatl. Nettoeinkommen;;;;;;;;
+Mikrozensus;;;;;;;;
+;;;;Bevölkerung in Hauptwohnsitzhaushalten;Erwerbstätige aus Hauptwohnsitzhaushalten;Erwerbslose aus Hauptwohnsitzhaushalten;Erwerbspersonen aus Hauptwohnsitzhaushalten;Nichterwerbspersonen aus Hauptwohnsitzhaushalten
+;;;;1000;1000;1000;1000;1000
+2022;Baden-Württemberg;männlich;Kein Einkommen;871;9;14;23;848
+2022;Baden-Württemberg;männlich;unter 500 EUR;396;91;18;109;288
+2022;Baden-Württemberg;männlich;500 bis unter 1000 EUR;428;192;27;219;209
+2022;Baden-Württemberg;männlich;1000 bis unter 1250 EUR;251;112;8;120;131
+2022;Baden-Württemberg;männlich;1250 bis unter 1500 EUR;267;128;/;133;133
+2022;Baden-Württemberg;männlich;1500 bis unter 1750 EUR;308;176;/;182;126
+2022;Baden-Württemberg;männlich;1750 bis unter 2000 EUR;390;270;/;273;116
+2022;Baden-Württemberg;männlich;2000 bis unter 2500 EUR;866;688;7;695;172
+2022;Baden-Württemberg;männlich;2500 bis unter 3000 EUR;554;458;/;462;92
+2022;Baden-Württemberg;männlich;3000 bis unter 3500 EUR;400;341;/;342;58
+2022;Baden-Württemberg;männlich;3500 EUR und mehr;832;745;/;747;85
+2022;Baden-Württemberg;männlich;Ohne Angabe;/;/;/;/;/
+2022;Baden-Württemberg;männlich;Insgesamt;5563;3210;95;3305;2258
+2022;Baden-Württemberg;weiblich;Kein Einkommen;1009;15;17;32;977
+2022;Baden-Württemberg;weiblich;unter 500 EUR;749;256;15;271;478
+2022;Baden-Württemberg;weiblich;500 bis unter 1000 EUR;938;443;18;461;477
+2022;Baden-Württemberg;weiblich;1000 bis unter 1250 EUR;538;305;/;310;229
+2022;Baden-Württemberg;weiblich;1250 bis unter 1500 EUR;447;278;/;281;166
+2022;Baden-Württemberg;weiblich;1500 bis unter 1750 EUR;380;251;/;253;126
+2022;Baden-Württemberg;weiblich;1750 bis unter 2000 EUR;362;263;/;265;96
+2022;Baden-Württemberg;weiblich;2000 bis unter 2500 EUR;580;463;/;466;114
+2022;Baden-Württemberg;weiblich;2500 bis unter 3000 EUR;260;207;/;209;52
+2022;Baden-Württemberg;weiblich;3000 bis unter 3500 EUR;159;133;/;133;26
+2022;Baden-Württemberg;weiblich;3500 EUR und mehr;205;174;/;174;31
+2022;Baden-Württemberg;weiblich;Ohne Angabe;/;/;/;/;/
+2022;Baden-Württemberg;weiblich;Insgesamt;5626;2787;67;2854;2772
+2022;Baden-Württemberg;Insgesamt;Kein Einkommen;1879;24;31;54;1825
+2022;Baden-Württemberg;Insgesamt;unter 500 EUR;1145;347;32;379;766
+2022;Baden-Württemberg;Insgesamt;500 bis unter 1000 EUR;1366;635;45;680;686
+2022;Baden-Württemberg;Insgesamt;1000 bis unter 1250 EUR;790;417;13;430;359
+2022;Baden-Württemberg;Insgesamt;1250 bis unter 1500 EUR;714;405;9;414;300
+2022;Baden-Württemberg;Insgesamt;1500 bis unter 1750 EUR;688;427;9;436;252
+2022;Baden-Württemberg;Insgesamt;1750 bis unter 2000 EUR;751;533;/;539;213
+2022;Baden-Württemberg;Insgesamt;2000 bis unter 2500 EUR;1447;1151;9;1161;286
+2022;Baden-Württemberg;Insgesamt;2500 bis unter 3000 EUR;814;666;/;670;143
+2022;Baden-Württemberg;Insgesamt;3000 bis unter 3500 EUR;559;474;/;475;84
+2022;Baden-Württemberg;Insgesamt;3500 EUR und mehr;1037;919;/;921;116
+2022;Baden-Württemberg;Insgesamt;Ohne Angabe;/;/;/;/;/
+2022;Baden-Württemberg;Insgesamt;Insgesamt;11190;5997;162;6159;5030
+2022;Bayern;männlich;Kein Einkommen;964;11;12;23;941
+2022;Bayern;männlich;unter 500 EUR;449;83;14;96;353
+2022;Bayern;männlich;500 bis unter 1000 EUR;454;213;21;235;219
+2022;Bayern;männlich;1000 bis unter 1250 EUR;313;129;/;135;177
+2022;Bayern;männlich;1250 bis unter 1500 EUR;310;139;/;146;165
+2022;Bayern;männlich;1500 bis unter 1750 EUR;423;238;/;243;180
+2022;Bayern;männlich;1750 bis unter 2000 EUR;468;338;/;342;126
+2022;Bayern;männlich;2000 bis unter 2500 EUR;1058;847;9;856;202
+2022;Bayern;männlich;2500 bis unter 3000 EUR;663;554;/;557;106
+2022;Bayern;männlich;3000 bis unter 3500 EUR;470;394;/;395;75
+2022;Bayern;männlich;3500 EUR und mehr;988;873;/;876;113
+2022;Bayern;männlich;Ohne Angabe;/;/;/;/;/
+2022;Bayern;männlich;Insgesamt;6560;3819;86;3905;2655
+2022;Bayern;weiblich;Kein Einkommen;1132;20;15;36;1097
+2022;Bayern;weiblich;unter 500 EUR;868;271;17;288;580
+2022;Bayern;weiblich;500 bis unter 1000 EUR;1063;492;22;514;549
+2022;Bayern;weiblich;1000 bis unter 1250 EUR;681;379;9;387;293
+2022;Bayern;weiblich;1250 bis unter 1500 EUR;498;313;/;318;180
+2022;Bayern;weiblich;1500 bis unter 1750 EUR;507;339;/;343;164
+2022;Bayern;weiblich;1750 bis unter 2000 EUR;424;318;/;320;104
+2022;Bayern;weiblich;2000 bis unter 2500 EUR;681;543;/;546;134
+2022;Bayern;weiblich;2500 bis unter 3000 EUR;338;275;/;277;61
+2022;Bayern;weiblich;3000 bis unter 3500 EUR;186;153;/;153;33
+2022;Bayern;weiblich;3500 EUR und mehr;278;230;/;231;47
+2022;Bayern;weiblich;Ohne Angabe;/;/;/;/;/
+2022;Bayern;weiblich;Insgesamt;6656;3332;80;3413;3244
+2022;Bayern;Insgesamt;Kein Einkommen;2096;31;28;59;2037
+2022;Bayern;Insgesamt;unter 500 EUR;1317;354;30;384;933
+2022;Bayern;Insgesamt;500 bis unter 1000 EUR;1517;705;43;749;768
+2022;Bayern;Insgesamt;1000 bis unter 1250 EUR;993;507;15;523;471
+2022;Bayern;Insgesamt;1250 bis unter 1500 EUR;808;452;11;463;345
+2022;Bayern;Insgesamt;1500 bis unter 1750 EUR;930;577;9;586;344
+2022;Bayern;Insgesamt;1750 bis unter 2000 EUR;892;656;7;663;230
+2022;Bayern;Insgesamt;2000 bis unter 2500 EUR;1738;1389;13;1402;336
+2022;Bayern;Insgesamt;2500 bis unter 3000 EUR;1001;829;/;834;167
+2022;Bayern;Insgesamt;3000 bis unter 3500 EUR;656;547;/;548;108
+2022;Bayern;Insgesamt;3500 EUR und mehr;1266;1103;/;1107;160
+2022;Bayern;Insgesamt;Ohne Angabe;/;/;/;/;/
+2022;Bayern;Insgesamt;Insgesamt;13216;7151;166;7317;5899
+2022;Berlin;männlich;Kein Einkommen;268;/;/;/;260
+2022;Berlin;männlich;unter 500 EUR;145;24;/;32;113
+2022;Berlin;männlich;500 bis unter 1000 EUR;178;57;21;78;99
+2022;Berlin;männlich;1000 bis unter 1250 EUR;118;56;/;61;57
+2022;Berlin;männlich;1250 bis unter 1500 EUR;121;66;/;70;51
+2022;Berlin;männlich;1500 bis unter 1750 EUR;134;87;/;90;44
+2022;Berlin;männlich;1750 bis unter 2000 EUR;123;90;/;93;31
+2022;Berlin;männlich;2000 bis unter 2500 EUR;234;187;/;189;45
+2022;Berlin;männlich;2500 bis unter 3000 EUR;151;125;/;126;25
+2022;Berlin;männlich;3000 bis unter 3500 EUR;96;86;/;86;11
+2022;Berlin;männlich;3500 EUR und mehr;237;215;/;216;21
+2022;Berlin;männlich;Ohne Angabe;/;/;/;/;/
+2022;Berlin;männlich;Insgesamt;1805;996;52;1048;758
+2022;Berlin;weiblich;Kein Einkommen;296;/;/;/;289
+2022;Berlin;weiblich;unter 500 EUR;170;34;/;40;130
+2022;Berlin;weiblich;500 bis unter 1000 EUR;241;76;19;96;146
+2022;Berlin;weiblich;1000 bis unter 1250 EUR;172;80;/;85;87
+2022;Berlin;weiblich;1250 bis unter 1500 EUR;154;81;/;84;70
+2022;Berlin;weiblich;1500 bis unter 1750 EUR;146;88;/;89;57
+2022;Berlin;weiblich;1750 bis unter 2000 EUR;144;93;/;94;50
+2022;Berlin;weiblich;2000 bis unter 2500 EUR;241;182;/;185;56
+2022;Berlin;weiblich;2500 bis unter 3000 EUR;125;104;/;105;21
+2022;Berlin;weiblich;3000 bis unter 3500 EUR;78;67;/;67;11
+2022;Berlin;weiblich;3500 EUR und mehr;108;98;/;98;10
+2022;Berlin;weiblich;Ohne Angabe;/;/;/;/;/
+2022;Berlin;weiblich;Insgesamt;1876;906;45;951;926
+2022;Berlin;Insgesamt;Kein Einkommen;564;/;/;16;549
+2022;Berlin;Insgesamt;unter 500 EUR;315;58;14;72;243
+2022;Berlin;Insgesamt;500 bis unter 1000 EUR;419;134;40;174;245
+2022;Berlin;Insgesamt;1000 bis unter 1250 EUR;290;136;10;146;144
+2022;Berlin;Insgesamt;1250 bis unter 1500 EUR;275;147;/;154;121
+2022;Berlin;Insgesamt;1500 bis unter 1750 EUR;280;174;/;179;101
+2022;Berlin;Insgesamt;1750 bis unter 2000 EUR;267;183;/;187;80
+2022;Berlin;Insgesamt;2000 bis unter 2500 EUR;476;369;/;374;102
+2022;Berlin;Insgesamt;2500 bis unter 3000 EUR;277;229;/;230;46
+2022;Berlin;Insgesamt;3000 bis unter 3500 EUR;174;152;/;153;22
+2022;Berlin;Insgesamt;3500 EUR und mehr;345;312;/;314;31
+2022;Berlin;Insgesamt;Ohne Angabe;/;/;/;/;/
+2022;Berlin;Insgesamt;Insgesamt;3682;1901;97;1998;1683
+2022;Brandenburg;männlich;Kein Einkommen;178;/;/;/;174
+2022;Brandenburg;männlich;unter 500 EUR;87;16;/;20;67
+2022;Brandenburg;männlich;500 bis unter 1000 EUR;127;43;/;52;74
+2022;Brandenburg;männlich;1000 bis unter 1250 EUR;113;38;/;40;73
+2022;Brandenburg;männlich;1250 bis unter 1500 EUR;119;58;/;60;60
+2022;Brandenburg;männlich;1500 bis unter 1750 EUR;123;80;/;80;43
+2022;Brandenburg;männlich;1750 bis unter 2000 EUR;113;82;/;82;30
+2022;Brandenburg;männlich;2000 bis unter 2500 EUR;173;138;/;140;34
+2022;Brandenburg;männlich;2500 bis unter 3000 EUR;79;68;/;69;11
+2022;Brandenburg;männlich;3000 bis unter 3500 EUR;53;47;/;48;/
+2022;Brandenburg;männlich;3500 EUR und mehr;87;82;/;82;/
+2022;Brandenburg;männlich;Ohne Angabe;/;/;/;/;/
+2022;Brandenburg;männlich;Insgesamt;1252;653;23;676;575
+2022;Brandenburg;weiblich;Kein Einkommen;181;/;/;/;176
+2022;Brandenburg;weiblich;unter 500 EUR;101;23;/;28;74
+2022;Brandenburg;weiblich;500 bis unter 1000 EUR;173;54;/;59;114
+2022;Brandenburg;weiblich;1000 bis unter 1250 EUR;150;61;/;64;86
+2022;Brandenburg;weiblich;1250 bis unter 1500 EUR;130;62;/;64;66
+2022;Brandenburg;weiblich;1500 bis unter 1750 EUR;123;68;/;69;55
+2022;Brandenburg;weiblich;1750 bis unter 2000 EUR;117;73;/;73;43
+2022;Brandenburg;weiblich;2000 bis unter 2500 EUR;160;121;/;121;39
+2022;Brandenburg;weiblich;2500 bis unter 3000 EUR;69;57;/;57;11
+2022;Brandenburg;weiblich;3000 bis unter 3500 EUR;37;33;/;33;/
+2022;Brandenburg;weiblich;3500 EUR und mehr;46;42;/;43;/
+2022;Brandenburg;weiblich;Ohne Angabe;/;/;/;/;/
+2022;Brandenburg;weiblich;Insgesamt;1287;596;20;616;672
+2022;Brandenburg;Insgesamt;Kein Einkommen;358;/;/;/;350
+2022;Brandenburg;Insgesamt;unter 500 EUR;188;38;/;48;140
+2022;Brandenburg;Insgesamt;500 bis unter 1000 EUR;300;97;15;112;188
+2022;Brandenburg;Insgesamt;1000 bis unter 1250 EUR;263;99;/;103;159
+2022;Brandenburg;Insgesamt;1250 bis unter 1500 EUR;249;121;/;124;125
+2022;Brandenburg;Insgesamt;1500 bis unter 1750 EUR;246;148;/;149;98
+2022;Brandenburg;Insgesamt;1750 bis unter 2000 EUR;230;155;/;156;74
+2022;Brandenburg;Insgesamt;2000 bis unter 2500 EUR;334;259;/;261;73
+2022;Brandenburg;Insgesamt;2500 bis unter 3000 EUR;148;125;/;126;22
+2022;Brandenburg;Insgesamt;3000 bis unter 3500 EUR;91;80;/;81;10
+2022;Brandenburg;Insgesamt;3500 EUR und mehr;134;124;/;125;9
+2022;Brandenburg;Insgesamt;Ohne Angabe;/;/;/;/;/
+2022;Brandenburg;Insgesamt;Insgesamt;2539;1249;43;1292;1247
+2022;Bremen;männlich;Kein Einkommen;47;/;/;/;45
+2022;Bremen;männlich;unter 500 EUR;37;6;/;8;29
+2022;Bremen;männlich;500 bis unter 1000 EUR;46;15;5;20;26
+2022;Bremen;männlich;1000 bis unter 1250 EUR;20;8;/;9;11
+2022;Bremen;männlich;1250 bis unter 1500 EUR;19;12;/;12;7
+2022;Bremen;männlich;1500 bis unter 1750 EUR;23;15;/;15;8
+2022;Bremen;männlich;1750 bis unter 2000 EUR;21;16;/;16;5
+2022;Bremen;männlich;2000 bis unter 2500 EUR;48;37;/;38;10
+2022;Bremen;männlich;2500 bis unter 3000 EUR;24;20;/;20;4
+2022;Bremen;männlich;3000 bis unter 3500 EUR;16;13;/;13;/
+2022;Bremen;männlich;3500 EUR und mehr;29;25;/;25;/
+2022;Bremen;männlich;Ohne Angabe;/;/;/;/;/
+2022;Bremen;männlich;Insgesamt;330;167;11;178;152
+2022;Bremen;weiblich;Kein Einkommen;57;/;/;/;55
+2022;Bremen;weiblich;unter 500 EUR;51;13;/;14;36
+2022;Bremen;weiblich;500 bis unter 1000 EUR;65;27;/;30;35
+2022;Bremen;weiblich;1000 bis unter 1250 EUR;33;16;/;16;16
+2022;Bremen;weiblich;1250 bis unter 1500 EUR;27;16;/;17;10
+2022;Bremen;weiblich;1500 bis unter 1750 EUR;22;14;/;14;8
+2022;Bremen;weiblich;1750 bis unter 2000 EUR;20;14;/;14;6
+2022;Bremen;weiblich;2000 bis unter 2500 EUR;33;25;/;26;7
+2022;Bremen;weiblich;2500 bis unter 3000 EUR;13;10;/;10;/
+2022;Bremen;weiblich;3000 bis unter 3500 EUR;8;6;/;6;/
+2022;Bremen;weiblich;3500 EUR und mehr;7;6;/;6;/
+2022;Bremen;weiblich;Ohne Angabe;/;/;/;/;/
+2022;Bremen;weiblich;Insgesamt;336;148;6;154;182
+2022;Bremen;Insgesamt;Kein Einkommen;104;/;/;/;100
+2022;Bremen;Insgesamt;unter 500 EUR;88;19;/;23;65
+2022;Bremen;Insgesamt;500 bis unter 1000 EUR;110;42;8;50;61
+2022;Bremen;Insgesamt;1000 bis unter 1250 EUR;52;24;/;25;27
+2022;Bremen;Insgesamt;1250 bis unter 1500 EUR;46;28;/;29;17
+2022;Bremen;Insgesamt;1500 bis unter 1750 EUR;45;29;/;29;16
+2022;Bremen;Insgesamt;1750 bis unter 2000 EUR;42;30;/;30;12
+2022;Bremen;Insgesamt;2000 bis unter 2500 EUR;81;63;/;64;17
+2022;Bremen;Insgesamt;2500 bis unter 3000 EUR;37;29;/;30;8
+2022;Bremen;Insgesamt;3000 bis unter 3500 EUR;25;19;/;19;6
+2022;Bremen;Insgesamt;3500 EUR und mehr;36;31;/;32;4
+2022;Bremen;Insgesamt;Ohne Angabe;/;/;/;/;/
+2022;Bremen;Insgesamt;Insgesamt;667;315;18;333;334
+2022;Hamburg;männlich;Kein Einkommen;139;/;/;/;134
+2022;Hamburg;männlich;unter 500 EUR;82;14;/;18;64
+2022;Hamburg;männlich;500 bis unter 1000 EUR;77;31;/;38;39
+2022;Hamburg;männlich;1000 bis unter 1250 EUR;55;24;/;28;28
+2022;Hamburg;männlich;1250 bis unter 1500 EUR;46;26;/;28;18
+2022;Hamburg;männlich;1500 bis unter 1750 EUR;61;40;/;42;19
+2022;Hamburg;männlich;1750 bis unter 2000 EUR;58;42;/;43;14
+2022;Hamburg;männlich;2000 bis unter 2500 EUR;126;103;/;104;21
+2022;Hamburg;männlich;2500 bis unter 3000 EUR;82;70;/;71;11
+2022;Hamburg;männlich;3000 bis unter 3500 EUR;59;50;/;50;10
+2022;Hamburg;männlich;3500 EUR und mehr;125;112;/;112;13
+2022;Hamburg;männlich;Ohne Angabe;/;/;/;/;/
+2022;Hamburg;männlich;Insgesamt;910;514;25;539;372
+2022;Hamburg;weiblich;Kein Einkommen;160;/;/;/;155
+2022;Hamburg;weiblich;unter 500 EUR;112;27;/;30;82
+2022;Hamburg;weiblich;500 bis unter 1000 EUR;120;47;/;51;69
+2022;Hamburg;weiblich;1000 bis unter 1250 EUR;81;39;/;41;39
+2022;Hamburg;weiblich;1250 bis unter 1500 EUR;67;39;/;41;27
+2022;Hamburg;weiblich;1500 bis unter 1750 EUR;73;47;/;48;25
+2022;Hamburg;weiblich;1750 bis unter 2000 EUR;60;42;/;43;17
+2022;Hamburg;weiblich;2000 bis unter 2500 EUR;117;93;/;94;24
+2022;Hamburg;weiblich;2500 bis unter 3000 EUR;65;55;/;55;9
+2022;Hamburg;weiblich;3000 bis unter 3500 EUR;36;31;/;31;/
+2022;Hamburg;weiblich;3500 EUR und mehr;52;46;/;46;6
+2022;Hamburg;weiblich;Ohne Angabe;/;/;/;/;/
+2022;Hamburg;weiblich;Insgesamt;942;468;17;485;457
+2022;Hamburg;Insgesamt;Kein Einkommen;299;/;/;10;289
+2022;Hamburg;Insgesamt;unter 500 EUR;194;40;8;48;145
+2022;Hamburg;Insgesamt;500 bis unter 1000 EUR;197;78;11;89;108
+2022;Hamburg;Insgesamt;1000 bis unter 1250 EUR;136;63;/;69;67
+2022;Hamburg;Insgesamt;1250 bis unter 1500 EUR;113;65;/;69;45
+2022;Hamburg;Insgesamt;1500 bis unter 1750 EUR;134;86;/;89;44
+2022;Hamburg;Insgesamt;1750 bis unter 2000 EUR;117;84;/;86;31
+2022;Hamburg;Insgesamt;2000 bis unter 2500 EUR;243;196;/;198;45
+2022;Hamburg;Insgesamt;2500 bis unter 3000 EUR;147;125;/;126;21
+2022;Hamburg;Insgesamt;3000 bis unter 3500 EUR;95;81;/;81;14
+2022;Hamburg;Insgesamt;3500 EUR und mehr;178;158;/;158;19
+2022;Hamburg;Insgesamt;Ohne Angabe;/;/;/;/;/
+2022;Hamburg;Insgesamt;Insgesamt;1852;982;42;1024;829
+2022;Hessen;männlich;Kein Einkommen;464;7;9;16;448
+2022;Hessen;männlich;unter 500 EUR;281;60;14;74;206
+2022;Hessen;männlich;500 bis unter 1000 EUR;261;108;17;125;136
+2022;Hessen;männlich;1000 bis unter 1250 EUR;159;69;/;74;85
+2022;Hessen;männlich;1250 bis unter 1500 EUR;162;78;/;83;79
+2022;Hessen;männlich;1500 bis unter 1750 EUR;196;115;/;118;78
+2022;Hessen;männlich;1750 bis unter 2000 EUR;227;154;/;157;70
+2022;Hessen;männlich;2000 bis unter 2500 EUR;453;347;/;350;102
+2022;Hessen;männlich;2500 bis unter 3000 EUR;283;230;/;231;51
+2022;Hessen;männlich;3000 bis unter 3500 EUR;195;154;/;154;41
+2022;Hessen;männlich;3500 EUR und mehr;422;368;/;369;53
+2022;Hessen;männlich;Ohne Angabe;/;/;/;/;/
+2022;Hessen;männlich;Insgesamt;3101;1689;64;1753;1349
+2022;Hessen;weiblich;Kein Einkommen;565;9;9;18;547
+2022;Hessen;weiblich;unter 500 EUR;456;132;10;142;314
+2022;Hessen;weiblich;500 bis unter 1000 EUR;509;211;16;227;282
+2022;Hessen;weiblich;1000 bis unter 1250 EUR;299;153;/;158;141
+2022;Hessen;weiblich;1250 bis unter 1500 EUR;238;142;/;145;93
+2022;Hessen;weiblich;1500 bis unter 1750 EUR;222;145;/;147;75
+2022;Hessen;weiblich;1750 bis unter 2000 EUR;196;137;/;139;57
+2022;Hessen;weiblich;2000 bis unter 2500 EUR;306;233;/;234;72
+2022;Hessen;weiblich;2500 bis unter 3000 EUR;160;124;/;124;35
+2022;Hessen;weiblich;3000 bis unter 3500 EUR;98;77;/;77;21
+2022;Hessen;weiblich;3500 EUR und mehr;141;120;/;121;21
+2022;Hessen;weiblich;Ohne Angabe;/;/;/;/;/
+2022;Hessen;weiblich;Insgesamt;3191;1484;49;1532;1658
+2022;Hessen;Insgesamt;Kein Einkommen;1029;15;19;34;995
+2022;Hessen;Insgesamt;unter 500 EUR;737;192;24;216;521
+2022;Hessen;Insgesamt;500 bis unter 1000 EUR;770;320;32;352;417
+2022;Hessen;Insgesamt;1000 bis unter 1250 EUR;458;222;10;232;226
+2022;Hessen;Insgesamt;1250 bis unter 1500 EUR;401;221;8;228;172
+2022;Hessen;Insgesamt;1500 bis unter 1750 EUR;418;260;/;265;153
+2022;Hessen;Insgesamt;1750 bis unter 2000 EUR;424;291;/;296;127
+2022;Hessen;Insgesamt;2000 bis unter 2500 EUR;758;579;/;584;174
+2022;Hessen;Insgesamt;2500 bis unter 3000 EUR;442;354;/;355;87
+2022;Hessen;Insgesamt;3000 bis unter 3500 EUR;293;231;/;231;62
+2022;Hessen;Insgesamt;3500 EUR und mehr;563;488;/;490;73
+2022;Hessen;Insgesamt;Ohne Angabe;/;/;/;/;/
+2022;Hessen;Insgesamt;Insgesamt;6292;3173;112;3285;3007
+2022;Mecklenburg-Vorpommern;männlich;Kein Einkommen;120;/;/;/;118
+2022;Mecklenburg-Vorpommern;männlich;unter 500 EUR;42;11;/;15;28
+2022;Mecklenburg-Vorpommern;männlich;500 bis unter 1000 EUR;101;27;8;35;66
+2022;Mecklenburg-Vorpommern;männlich;1000 bis unter 1250 EUR;79;25;/;27;52
+2022;Mecklenburg-Vorpommern;männlich;1250 bis unter 1500 EUR;80;43;/;44;36
+2022;Mecklenburg-Vorpommern;männlich;1500 bis unter 1750 EUR;82;56;/;56;25
+2022;Mecklenburg-Vorpommern;männlich;1750 bis unter 2000 EUR;76;57;/;58;19
+2022;Mecklenburg-Vorpommern;männlich;2000 bis unter 2500 EUR;95;77;/;78;17
+2022;Mecklenburg-Vorpommern;männlich;2500 bis unter 3000 EUR;46;40;/;40;6
+2022;Mecklenburg-Vorpommern;männlich;3000 bis unter 3500 EUR;27;25;/;25;/
+2022;Mecklenburg-Vorpommern;männlich;3500 EUR und mehr;40;38;/;38;/
+2022;Mecklenburg-Vorpommern;männlich;Ohne Angabe;/;/;/;/;/
+2022;Mecklenburg-Vorpommern;männlich;Insgesamt;787;399;18;417;370
+2022;Mecklenburg-Vorpommern;weiblich;Kein Einkommen;124;/;/;/;120
+2022;Mecklenburg-Vorpommern;weiblich;unter 500 EUR;45;14;/;16;28
+2022;Mecklenburg-Vorpommern;weiblich;500 bis unter 1000 EUR;136;42;/;48;88
+2022;Mecklenburg-Vorpommern;weiblich;1000 bis unter 1250 EUR;113;49;/;51;62
+2022;Mecklenburg-Vorpommern;weiblich;1250 bis unter 1500 EUR;97;53;/;54;43
+2022;Mecklenburg-Vorpommern;weiblich;1500 bis unter 1750 EUR;84;50;/;51;34
+2022;Mecklenburg-Vorpommern;weiblich;1750 bis unter 2000 EUR;69;43;/;43;26
+2022;Mecklenburg-Vorpommern;weiblich;2000 bis unter 2500 EUR;85;60;/;60;25
+2022;Mecklenburg-Vorpommern;weiblich;2500 bis unter 3000 EUR;30;25;/;25;/
+2022;Mecklenburg-Vorpommern;weiblich;3000 bis unter 3500 EUR;16;15;/;15;/
+2022;Mecklenburg-Vorpommern;weiblich;3500 EUR und mehr;16;15;/;15;/
+2022;Mecklenburg-Vorpommern;weiblich;Ohne Angabe;/;/;/;/;/
+2022;Mecklenburg-Vorpommern;weiblich;Insgesamt;816;368;13;381;434
+2022;Mecklenburg-Vorpommern;Insgesamt;Kein Einkommen;244;/;/;/;238
+2022;Mecklenburg-Vorpommern;Insgesamt;unter 500 EUR;87;25;/;31;56
+2022;Mecklenburg-Vorpommern;Insgesamt;500 bis unter 1000 EUR;237;68;14;82;154
+2022;Mecklenburg-Vorpommern;Insgesamt;1000 bis unter 1250 EUR;192;75;/;77;114
+2022;Mecklenburg-Vorpommern;Insgesamt;1250 bis unter 1500 EUR;177;96;/;98;79
+2022;Mecklenburg-Vorpommern;Insgesamt;1500 bis unter 1750 EUR;166;106;/;107;59
+2022;Mecklenburg-Vorpommern;Insgesamt;1750 bis unter 2000 EUR;145;100;/;101;44
+2022;Mecklenburg-Vorpommern;Insgesamt;2000 bis unter 2500 EUR;180;137;/;138;42
+2022;Mecklenburg-Vorpommern;Insgesamt;2500 bis unter 3000 EUR;76;65;/;65;11
+2022;Mecklenburg-Vorpommern;Insgesamt;3000 bis unter 3500 EUR;43;40;/;40;/
+2022;Mecklenburg-Vorpommern;Insgesamt;3500 EUR und mehr;56;53;/;53;/
+2022;Mecklenburg-Vorpommern;Insgesamt;Ohne Angabe;/;/;/;/;/
+2022;Mecklenburg-Vorpommern;Insgesamt;Insgesamt;1602;767;31;798;805
+2022;Niedersachsen;männlich;Kein Einkommen;557;/;9;14;543
+2022;Niedersachsen;männlich;unter 500 EUR;358;70;14;84;274
+2022;Niedersachsen;männlich;500 bis unter 1000 EUR;358;150;25;175;183
+2022;Niedersachsen;männlich;1000 bis unter 1250 EUR;211;89;/;95;116
+2022;Niedersachsen;männlich;1250 bis unter 1500 EUR;234;121;/;125;108
+2022;Niedersachsen;männlich;1500 bis unter 1750 EUR;260;155;/;157;103
+2022;Niedersachsen;männlich;1750 bis unter 2000 EUR;323;234;/;236;86
+2022;Niedersachsen;männlich;2000 bis unter 2500 EUR;611;478;/;481;130
+2022;Niedersachsen;männlich;2500 bis unter 3000 EUR;357;285;/;287;70
+2022;Niedersachsen;männlich;3000 bis unter 3500 EUR;240;196;/;197;43
+2022;Niedersachsen;männlich;3500 EUR und mehr;450;390;/;391;59
+2022;Niedersachsen;männlich;Ohne Angabe;/;/;/;/;/
+2022;Niedersachsen;männlich;Insgesamt;3960;2173;71;2244;1717
+2022;Niedersachsen;weiblich;Kein Einkommen;636;10;8;18;618
+2022;Niedersachsen;weiblich;unter 500 EUR;624;182;11;193;431
+2022;Niedersachsen;weiblich;500 bis unter 1000 EUR;729;333;16;349;380
+2022;Niedersachsen;weiblich;1000 bis unter 1250 EUR;406;228;/;233;173
+2022;Niedersachsen;weiblich;1250 bis unter 1500 EUR;348;213;/;216;132
+2022;Niedersachsen;weiblich;1500 bis unter 1750 EUR;286;188;/;190;96
+2022;Niedersachsen;weiblich;1750 bis unter 2000 EUR;252;182;/;183;69
+2022;Niedersachsen;weiblich;2000 bis unter 2500 EUR;378;286;/;288;90
+2022;Niedersachsen;weiblich;2500 bis unter 3000 EUR;173;135;/;135;38
+2022;Niedersachsen;weiblich;3000 bis unter 3500 EUR;101;79;/;79;22
+2022;Niedersachsen;weiblich;3500 EUR und mehr;117;96;/;97;20
+2022;Niedersachsen;weiblich;Ohne Angabe;/;/;/;/;/
+2022;Niedersachsen;weiblich;Insgesamt;4049;1933;49;1982;2067
+2022;Niedersachsen;Insgesamt;Kein Einkommen;1193;16;17;33;1160
+2022;Niedersachsen;Insgesamt;unter 500 EUR;982;252;25;277;705
+2022;Niedersachsen;Insgesamt;500 bis unter 1000 EUR;1087;483;41;524;563
+2022;Niedersachsen;Insgesamt;1000 bis unter 1250 EUR;617;318;11;328;289
+2022;Niedersachsen;Insgesamt;1250 bis unter 1500 EUR;581;333;8;341;240
+2022;Niedersachsen;Insgesamt;1500 bis unter 1750 EUR;546;343;/;347;199
+2022;Niedersachsen;Insgesamt;1750 bis unter 2000 EUR;575;416;/;420;155
+2022;Niedersachsen;Insgesamt;2000 bis unter 2500 EUR;990;764;/;770;220
+2022;Niedersachsen;Insgesamt;2500 bis unter 3000 EUR;530;420;/;422;108
+2022;Niedersachsen;Insgesamt;3000 bis unter 3500 EUR;341;276;/;276;65
+2022;Niedersachsen;Insgesamt;3500 EUR und mehr;567;486;/;488;79
+2022;Niedersachsen;Insgesamt;Ohne Angabe;/;/;/;/;/
+2022;Niedersachsen;Insgesamt;Insgesamt;8010;4107;119;4226;3784
+2022;Nordrhein-Westfalen;männlich;Kein Einkommen;1253;16;21;37;1216
+2022;Nordrhein-Westfalen;männlich;unter 500 EUR;875;164;44;208;667
+2022;Nordrhein-Westfalen;männlich;500 bis unter 1000 EUR;780;347;59;406;374
+2022;Nordrhein-Westfalen;männlich;1000 bis unter 1250 EUR;434;196;18;214;220
+2022;Nordrhein-Westfalen;männlich;1250 bis unter 1500 EUR;484;246;12;258;226
+2022;Nordrhein-Westfalen;männlich;1500 bis unter 1750 EUR;565;321;8;329;237
+2022;Nordrhein-Westfalen;männlich;1750 bis unter 2000 EUR;654;437;8;445;209
+2022;Nordrhein-Westfalen;männlich;2000 bis unter 2500 EUR;1348;1032;11;1044;304
+2022;Nordrhein-Westfalen;männlich;2500 bis unter 3000 EUR;781;626;/;631;150
+2022;Nordrhein-Westfalen;männlich;3000 bis unter 3500 EUR;533;429;/;430;103
+2022;Nordrhein-Westfalen;männlich;3500 EUR und mehr;1064;921;/;925;139
+2022;Nordrhein-Westfalen;männlich;Ohne Angabe;/;/;/;/;/
+2022;Nordrhein-Westfalen;männlich;Insgesamt;8770;4736;189;4925;3845
+2022;Nordrhein-Westfalen;weiblich;Kein Einkommen;1519;27;22;49;1470
+2022;Nordrhein-Westfalen;weiblich;unter 500 EUR;1495;424;34;458;1038
+2022;Nordrhein-Westfalen;weiblich;500 bis unter 1000 EUR;1478;635;38;673;805
+2022;Nordrhein-Westfalen;weiblich;1000 bis unter 1250 EUR;852;442;12;454;398
+2022;Nordrhein-Westfalen;weiblich;1250 bis unter 1500 EUR;699;406;7;413;286
+2022;Nordrhein-Westfalen;weiblich;1500 bis unter 1750 EUR;619;387;/;392;227
+2022;Nordrhein-Westfalen;weiblich;1750 bis unter 2000 EUR;555;380;/;383;172
+2022;Nordrhein-Westfalen;weiblich;2000 bis unter 2500 EUR;882;669;/;675;207
+2022;Nordrhein-Westfalen;weiblich;2500 bis unter 3000 EUR;426;326;/;327;99
+2022;Nordrhein-Westfalen;weiblich;3000 bis unter 3500 EUR;247;194;/;195;52
+2022;Nordrhein-Westfalen;weiblich;3500 EUR und mehr;321;258;/;259;62
+2022;Nordrhein-Westfalen;weiblich;Ohne Angabe;/;/;/;/;/
+2022;Nordrhein-Westfalen;weiblich;Insgesamt;9094;4149;130;4279;4815
+2022;Nordrhein-Westfalen;Insgesamt;Kein Einkommen;2772;43;43;86;2686
+2022;Nordrhein-Westfalen;Insgesamt;unter 500 EUR;2370;587;78;665;1705
+2022;Nordrhein-Westfalen;Insgesamt;500 bis unter 1000 EUR;2257;982;97;1079;1178
+2022;Nordrhein-Westfalen;Insgesamt;1000 bis unter 1250 EUR;1286;639;30;668;618
+2022;Nordrhein-Westfalen;Insgesamt;1250 bis unter 1500 EUR;1183;652;19;671;512
+2022;Nordrhein-Westfalen;Insgesamt;1500 bis unter 1750 EUR;1185;708;13;721;464
+2022;Nordrhein-Westfalen;Insgesamt;1750 bis unter 2000 EUR;1209;818;11;829;380
+2022;Nordrhein-Westfalen;Insgesamt;2000 bis unter 2500 EUR;2230;1702;17;1719;511
+2022;Nordrhein-Westfalen;Insgesamt;2500 bis unter 3000 EUR;1208;952;7;958;249
+2022;Nordrhein-Westfalen;Insgesamt;3000 bis unter 3500 EUR;780;623;/;625;155
+2022;Nordrhein-Westfalen;Insgesamt;3500 EUR und mehr;1385;1179;/;1184;201
+2022;Nordrhein-Westfalen;Insgesamt;Ohne Angabe;/;/;/;/;/
+2022;Nordrhein-Westfalen;Insgesamt;Insgesamt;17864;8885;320;9205;8660
+2022;Rheinland-Pfalz;männlich;Kein Einkommen;290;/;/;10;280
+2022;Rheinland-Pfalz;männlich;unter 500 EUR;182;41;9;50;132
+2022;Rheinland-Pfalz;männlich;500 bis unter 1000 EUR;157;70;10;79;77
+2022;Rheinland-Pfalz;männlich;1000 bis unter 1250 EUR;100;39;/;41;59
+2022;Rheinland-Pfalz;männlich;1250 bis unter 1500 EUR;115;54;/;56;59
+2022;Rheinland-Pfalz;männlich;1500 bis unter 1750 EUR;127;77;/;78;49
+2022;Rheinland-Pfalz;männlich;1750 bis unter 2000 EUR;168;117;/;119;49
+2022;Rheinland-Pfalz;männlich;2000 bis unter 2500 EUR;327;259;/;261;66
+2022;Rheinland-Pfalz;männlich;2500 bis unter 3000 EUR;189;154;/;155;34
+2022;Rheinland-Pfalz;männlich;3000 bis unter 3500 EUR;128;104;/;105;23
+2022;Rheinland-Pfalz;männlich;3500 EUR und mehr;244;209;/;210;34
+2022;Rheinland-Pfalz;männlich;Ohne Angabe;/;/;/;/;/
+2022;Rheinland-Pfalz;männlich;Insgesamt;2028;1127;38;1165;863
+2022;Rheinland-Pfalz;weiblich;Kein Einkommen;362;/;/;11;350
+2022;Rheinland-Pfalz;weiblich;unter 500 EUR;332;103;8;111;220
+2022;Rheinland-Pfalz;weiblich;500 bis unter 1000 EUR;333;154;/;159;174
+2022;Rheinland-Pfalz;weiblich;1000 bis unter 1250 EUR;197;111;/;113;83
+2022;Rheinland-Pfalz;weiblich;1250 bis unter 1500 EUR;166;101;/;103;63
+2022;Rheinland-Pfalz;weiblich;1500 bis unter 1750 EUR;134;89;/;90;45
+2022;Rheinland-Pfalz;weiblich;1750 bis unter 2000 EUR;126;93;/;94;32
+2022;Rheinland-Pfalz;weiblich;2000 bis unter 2500 EUR;196;152;/;154;43
+2022;Rheinland-Pfalz;weiblich;2500 bis unter 3000 EUR;86;67;/;68;18
+2022;Rheinland-Pfalz;weiblich;3000 bis unter 3500 EUR;52;41;/;41;11
+2022;Rheinland-Pfalz;weiblich;3500 EUR und mehr;69;58;/;58;11
+2022;Rheinland-Pfalz;weiblich;Ohne Angabe;/;/;/;/;/
+2022;Rheinland-Pfalz;weiblich;Insgesamt;2052;973;28;1001;1051
+2022;Rheinland-Pfalz;Insgesamt;Kein Einkommen;652;8;13;21;630
+2022;Rheinland-Pfalz;Insgesamt;unter 500 EUR;514;144;17;162;352
+2022;Rheinland-Pfalz;Insgesamt;500 bis unter 1000 EUR;490;224;15;238;252
+2022;Rheinland-Pfalz;Insgesamt;1000 bis unter 1250 EUR;297;150;/;155;142
+2022;Rheinland-Pfalz;Insgesamt;1250 bis unter 1500 EUR;281;154;/;159;122
+2022;Rheinland-Pfalz;Insgesamt;1500 bis unter 1750 EUR;262;165;/;168;94
+2022;Rheinland-Pfalz;Insgesamt;1750 bis unter 2000 EUR;294;210;/;212;82
+2022;Rheinland-Pfalz;Insgesamt;2000 bis unter 2500 EUR;523;411;/;415;108
+2022;Rheinland-Pfalz;Insgesamt;2500 bis unter 3000 EUR;275;221;/;223;53
+2022;Rheinland-Pfalz;Insgesamt;3000 bis unter 3500 EUR;181;145;/;146;35
+2022;Rheinland-Pfalz;Insgesamt;3500 EUR und mehr;313;267;/;268;45
+2022;Rheinland-Pfalz;Insgesamt;Ohne Angabe;/;/;/;/;/
+2022;Rheinland-Pfalz;Insgesamt;Insgesamt;4080;2100;66;2166;1914
+2022;Saarland;männlich;Kein Einkommen;70;/;/;/;68
+2022;Saarland;männlich;unter 500 EUR;39;8;/;11;28
+2022;Saarland;männlich;500 bis unter 1000 EUR;38;17;/;21;17
+2022;Saarland;männlich;1000 bis unter 1250 EUR;24;9;/;10;14
+2022;Saarland;männlich;1250 bis unter 1500 EUR;30;13;/;14;16
+2022;Saarland;männlich;1500 bis unter 1750 EUR;32;16;/;16;16
+2022;Saarland;männlich;1750 bis unter 2000 EUR;48;30;/;31;17
+2022;Saarland;männlich;2000 bis unter 2500 EUR;80;58;/;58;22
+2022;Saarland;männlich;2500 bis unter 3000 EUR;47;37;/;37;10
+2022;Saarland;männlich;3000 bis unter 3500 EUR;27;21;/;21;6
+2022;Saarland;männlich;3500 EUR und mehr;49;44;/;44;5
+2022;Saarland;männlich;Ohne Angabe;/;/;/;/;/
+2022;Saarland;männlich;Insgesamt;484;254;11;265;219
+2022;Saarland;weiblich;Kein Einkommen;93;/;/;/;91
+2022;Saarland;weiblich;unter 500 EUR;82;26;/;28;54
+2022;Saarland;weiblich;500 bis unter 1000 EUR;80;36;/;38;42
+2022;Saarland;weiblich;1000 bis unter 1250 EUR;49;27;/;27;22
+2022;Saarland;weiblich;1250 bis unter 1500 EUR;43;26;/;26;17
+2022;Saarland;weiblich;1500 bis unter 1750 EUR;30;19;/;19;11
+2022;Saarland;weiblich;1750 bis unter 2000 EUR;33;23;/;23;10
+2022;Saarland;weiblich;2000 bis unter 2500 EUR;43;33;/;33;10
+2022;Saarland;weiblich;2500 bis unter 3000 EUR;19;15;/;15;/
+2022;Saarland;weiblich;3000 bis unter 3500 EUR;10;9;/;9;/
+2022;Saarland;weiblich;3500 EUR und mehr;14;11;/;12;/
+2022;Saarland;weiblich;Ohne Angabe;/;/;/;/;/
+2022;Saarland;weiblich;Insgesamt;497;224;8;232;265
+2022;Saarland;Insgesamt;Kein Einkommen;163;/;/;/;159
+2022;Saarland;Insgesamt;unter 500 EUR;121;34;/;39;82
+2022;Saarland;Insgesamt;500 bis unter 1000 EUR;118;53;/;59;59
+2022;Saarland;Insgesamt;1000 bis unter 1250 EUR;73;36;/;37;36
+2022;Saarland;Insgesamt;1250 bis unter 1500 EUR;74;39;/;40;34
+2022;Saarland;Insgesamt;1500 bis unter 1750 EUR;62;35;/;35;26
+2022;Saarland;Insgesamt;1750 bis unter 2000 EUR;81;53;/;54;27
+2022;Saarland;Insgesamt;2000 bis unter 2500 EUR;124;91;/;91;32
+2022;Saarland;Insgesamt;2500 bis unter 3000 EUR;66;52;/;52;14
+2022;Saarland;Insgesamt;3000 bis unter 3500 EUR;37;30;/;30;7
+2022;Saarland;Insgesamt;3500 EUR und mehr;63;55;/;55;8
+2022;Saarland;Insgesamt;Ohne Angabe;/;/;/;/;/
+2022;Saarland;Insgesamt;Insgesamt;981;479;18;497;484
+2022;Sachsen;männlich;Kein Einkommen;321;/;/;/;317
+2022;Sachsen;männlich;unter 500 EUR;81;20;7;27;54
+2022;Sachsen;männlich;500 bis unter 1000 EUR;212;71;15;86;126
+2022;Sachsen;männlich;1000 bis unter 1250 EUR;190;61;/;63;126
+2022;Sachsen;männlich;1250 bis unter 1500 EUR;227;116;/;117;110
+2022;Sachsen;männlich;1500 bis unter 1750 EUR;211;150;/;151;60
+2022;Sachsen;männlich;1750 bis unter 2000 EUR;193;147;/;148;46
+2022;Sachsen;männlich;2000 bis unter 2500 EUR;243;201;/;201;42
+2022;Sachsen;männlich;2500 bis unter 3000 EUR;126;116;/;116;10
+2022;Sachsen;männlich;3000 bis unter 3500 EUR;72;68;/;69;/
+2022;Sachsen;männlich;3500 EUR und mehr;108;103;/;103;/
+2022;Sachsen;männlich;Ohne Angabe;/;/;/;/;/
+2022;Sachsen;männlich;Insgesamt;1984;1054;30;1085;899
+2022;Sachsen;weiblich;Kein Einkommen;331;/;/;7;324
+2022;Sachsen;weiblich;unter 500 EUR;102;27;/;32;70
+2022;Sachsen;weiblich;500 bis unter 1000 EUR;326;99;15;114;212
+2022;Sachsen;weiblich;1000 bis unter 1250 EUR;261;109;/;112;149
+2022;Sachsen;weiblich;1250 bis unter 1500 EUR;235;133;/;135;100
+2022;Sachsen;weiblich;1500 bis unter 1750 EUR;219;130;/;130;88
+2022;Sachsen;weiblich;1750 bis unter 2000 EUR;177;114;/;115;63
+2022;Sachsen;weiblich;2000 bis unter 2500 EUR;209;153;/;154;55
+2022;Sachsen;weiblich;2500 bis unter 3000 EUR;86;73;/;73;13
+2022;Sachsen;weiblich;3000 bis unter 3500 EUR;39;36;/;36;/
+2022;Sachsen;weiblich;3500 EUR und mehr;43;41;/;41;/
+2022;Sachsen;weiblich;Ohne Angabe;/;/;/;/;/
+2022;Sachsen;weiblich;Insgesamt;2027;917;32;949;1078
+2022;Sachsen;Insgesamt;Kein Einkommen;652;/;8;12;640
+2022;Sachsen;Insgesamt;unter 500 EUR;183;47;12;59;124
+2022;Sachsen;Insgesamt;500 bis unter 1000 EUR;538;170;30;200;338
+2022;Sachsen;Insgesamt;1000 bis unter 1250 EUR;451;170;/;175;276
+2022;Sachsen;Insgesamt;1250 bis unter 1500 EUR;462;250;/;252;210
+2022;Sachsen;Insgesamt;1500 bis unter 1750 EUR;429;280;/;281;148
+2022;Sachsen;Insgesamt;1750 bis unter 2000 EUR;371;261;/;262;108
+2022;Sachsen;Insgesamt;2000 bis unter 2500 EUR;452;354;/;355;97
+2022;Sachsen;Insgesamt;2500 bis unter 3000 EUR;212;188;/;189;23
+2022;Sachsen;Insgesamt;3000 bis unter 3500 EUR;111;105;/;105;6
+2022;Sachsen;Insgesamt;3500 EUR und mehr;151;144;/;144;7
+2022;Sachsen;Insgesamt;Ohne Angabe;/;/;/;/;/
+2022;Sachsen;Insgesamt;Insgesamt;4010;1971;62;2034;1977
+2022;Sachsen-Anhalt;männlich;Kein Einkommen;144;/;/;/;141
+2022;Sachsen-Anhalt;männlich;unter 500 EUR;66;11;/;17;49
+2022;Sachsen-Anhalt;männlich;500 bis unter 1000 EUR;126;39;12;50;76
+2022;Sachsen-Anhalt;männlich;1000 bis unter 1250 EUR;109;34;/;36;73
+2022;Sachsen-Anhalt;männlich;1250 bis unter 1500 EUR;108;52;/;53;55
+2022;Sachsen-Anhalt;männlich;1500 bis unter 1750 EUR;112;76;/;78;34
+2022;Sachsen-Anhalt;männlich;1750 bis unter 2000 EUR;99;76;/;77;22
+2022;Sachsen-Anhalt;männlich;2000 bis unter 2500 EUR;142;118;/;118;24
+2022;Sachsen-Anhalt;männlich;2500 bis unter 3000 EUR;68;61;/;61;7
+2022;Sachsen-Anhalt;männlich;3000 bis unter 3500 EUR;35;32;/;32;/
+2022;Sachsen-Anhalt;männlich;3500 EUR und mehr;42;39;/;39;/
+2022;Sachsen-Anhalt;männlich;Ohne Angabe;/;/;/;/;/
+2022;Sachsen-Anhalt;männlich;Insgesamt;1051;539;25;564;487
+2022;Sachsen-Anhalt;weiblich;Kein Einkommen;149;/;/;/;146
+2022;Sachsen-Anhalt;weiblich;unter 500 EUR;79;15;/;19;60
+2022;Sachsen-Anhalt;weiblich;500 bis unter 1000 EUR;182;49;7;57;125
+2022;Sachsen-Anhalt;weiblich;1000 bis unter 1250 EUR;151;63;/;64;87
+2022;Sachsen-Anhalt;weiblich;1250 bis unter 1500 EUR;120;66;/;67;53
+2022;Sachsen-Anhalt;weiblich;1500 bis unter 1750 EUR;115;67;/;68;47
+2022;Sachsen-Anhalt;weiblich;1750 bis unter 2000 EUR;92;57;/;57;35
+2022;Sachsen-Anhalt;weiblich;2000 bis unter 2500 EUR;112;82;/;83;29
+2022;Sachsen-Anhalt;weiblich;2500 bis unter 3000 EUR;43;36;/;36;7
+2022;Sachsen-Anhalt;weiblich;3000 bis unter 3500 EUR;21;18;/;18;/
+2022;Sachsen-Anhalt;weiblich;3500 EUR und mehr;20;18;/;18;/
+2022;Sachsen-Anhalt;weiblich;Ohne Angabe;/;/;/;/;/
+2022;Sachsen-Anhalt;weiblich;Insgesamt;1083;474;17;491;592
+2022;Sachsen-Anhalt;Insgesamt;Kein Einkommen;293;/;/;7;287
+2022;Sachsen-Anhalt;Insgesamt;unter 500 EUR;145;26;10;36;109
+2022;Sachsen-Anhalt;Insgesamt;500 bis unter 1000 EUR;308;88;19;107;201
+2022;Sachsen-Anhalt;Insgesamt;1000 bis unter 1250 EUR;261;97;/;100;160
+2022;Sachsen-Anhalt;Insgesamt;1250 bis unter 1500 EUR;227;117;/;120;108
+2022;Sachsen-Anhalt;Insgesamt;1500 bis unter 1750 EUR;227;144;/;146;81
+2022;Sachsen-Anhalt;Insgesamt;1750 bis unter 2000 EUR;191;133;/;134;57
+2022;Sachsen-Anhalt;Insgesamt;2000 bis unter 2500 EUR;254;200;/;200;53
+2022;Sachsen-Anhalt;Insgesamt;2500 bis unter 3000 EUR;111;98;/;98;14
+2022;Sachsen-Anhalt;Insgesamt;3000 bis unter 3500 EUR;56;50;/;50;/
+2022;Sachsen-Anhalt;Insgesamt;3500 EUR und mehr;61;58;/;58;/
+2022;Sachsen-Anhalt;Insgesamt;Ohne Angabe;/;/;/;/;/
+2022;Sachsen-Anhalt;Insgesamt;Insgesamt;2134;1013;42;1055;1079
+2022;Schleswig-Holstein;männlich;Kein Einkommen;204;/;/;/;199
+2022;Schleswig-Holstein;männlich;unter 500 EUR;112;25;/;31;82
+2022;Schleswig-Holstein;männlich;500 bis unter 1000 EUR;115;48;8;56;59
+2022;Schleswig-Holstein;männlich;1000 bis unter 1250 EUR;77;34;/;37;40
+2022;Schleswig-Holstein;männlich;1250 bis unter 1500 EUR;85;47;/;47;38
+2022;Schleswig-Holstein;männlich;1500 bis unter 1750 EUR;107;66;/;68;40
+2022;Schleswig-Holstein;männlich;1750 bis unter 2000 EUR;125;89;/;91;34
+2022;Schleswig-Holstein;männlich;2000 bis unter 2500 EUR;230;176;/;178;52
+2022;Schleswig-Holstein;männlich;2500 bis unter 3000 EUR;129;95;/;95;34
+2022;Schleswig-Holstein;männlich;3000 bis unter 3500 EUR;83;64;/;64;19
+2022;Schleswig-Holstein;männlich;3500 EUR und mehr;155;133;/;134;22
+2022;Schleswig-Holstein;männlich;Ohne Angabe;/;/;/;/;/
+2022;Schleswig-Holstein;männlich;Insgesamt;1424;780;26;805;618
+2022;Schleswig-Holstein;weiblich;Kein Einkommen;242;/;/;8;235
+2022;Schleswig-Holstein;weiblich;unter 500 EUR;193;53;/;56;137
+2022;Schleswig-Holstein;weiblich;500 bis unter 1000 EUR;235;101;/;107;128
+2022;Schleswig-Holstein;weiblich;1000 bis unter 1250 EUR;155;81;/;84;71
+2022;Schleswig-Holstein;weiblich;1250 bis unter 1500 EUR;119;72;/;73;46
+2022;Schleswig-Holstein;weiblich;1500 bis unter 1750 EUR;117;77;/;77;40
+2022;Schleswig-Holstein;weiblich;1750 bis unter 2000 EUR;108;78;/;78;30
+2022;Schleswig-Holstein;weiblich;2000 bis unter 2500 EUR;149;110;/;111;38
+2022;Schleswig-Holstein;weiblich;2500 bis unter 3000 EUR;71;52;/;52;18
+2022;Schleswig-Holstein;weiblich;3000 bis unter 3500 EUR;40;31;/;31;8
+2022;Schleswig-Holstein;weiblich;3500 EUR und mehr;45;37;/;37;8
+2022;Schleswig-Holstein;weiblich;Ohne Angabe;/;/;/;/;/
+2022;Schleswig-Holstein;weiblich;Insgesamt;1475;696;18;714;761
+2022;Schleswig-Holstein;Insgesamt;Kein Einkommen;447;7;/;13;434
+2022;Schleswig-Holstein;Insgesamt;unter 500 EUR;305;78;9;87;219
+2022;Schleswig-Holstein;Insgesamt;500 bis unter 1000 EUR;350;149;14;163;187
+2022;Schleswig-Holstein;Insgesamt;1000 bis unter 1250 EUR;232;115;/;121;111
+2022;Schleswig-Holstein;Insgesamt;1250 bis unter 1500 EUR;205;119;/;120;84
+2022;Schleswig-Holstein;Insgesamt;1500 bis unter 1750 EUR;224;143;/;145;79
+2022;Schleswig-Holstein;Insgesamt;1750 bis unter 2000 EUR;234;167;/;169;65
+2022;Schleswig-Holstein;Insgesamt;2000 bis unter 2500 EUR;379;286;/;288;91
+2022;Schleswig-Holstein;Insgesamt;2500 bis unter 3000 EUR;200;147;/;148;52
+2022;Schleswig-Holstein;Insgesamt;3000 bis unter 3500 EUR;123;95;/;95;28
+2022;Schleswig-Holstein;Insgesamt;3500 EUR und mehr;200;170;/;170;30
+2022;Schleswig-Holstein;Insgesamt;Ohne Angabe;/;/;/;/;/
+2022;Schleswig-Holstein;Insgesamt;Insgesamt;2899;1476;44;1520;1379
+2022;Thüringen;männlich;Kein Einkommen;161;/;/;/;158
+2022;Thüringen;männlich;unter 500 EUR;46;9;/;13;33
+2022;Thüringen;männlich;500 bis unter 1000 EUR;122;41;9;49;73
+2022;Thüringen;männlich;1000 bis unter 1250 EUR;104;31;/;32;72
+2022;Thüringen;männlich;1250 bis unter 1500 EUR;108;57;/;58;50
+2022;Thüringen;männlich;1500 bis unter 1750 EUR;114;81;/;82;32
+2022;Thüringen;männlich;1750 bis unter 2000 EUR;102;80;/;81;21
+2022;Thüringen;männlich;2000 bis unter 2500 EUR;135;113;/;114;21
+2022;Thüringen;männlich;2500 bis unter 3000 EUR;60;55;/;55;/
+2022;Thüringen;männlich;3000 bis unter 3500 EUR;35;32;/;32;/
+2022;Thüringen;männlich;3500 EUR und mehr;47;44;/;44;/
+2022;Thüringen;männlich;Ohne Angabe;/;/;/;/;/
+2022;Thüringen;männlich;Insgesamt;1032;545;17;562;470
+2022;Thüringen;weiblich;Kein Einkommen;162;/;/;/;158
+2022;Thüringen;weiblich;unter 500 EUR;58;16;/;18;40
+2022;Thüringen;weiblich;500 bis unter 1000 EUR;177;58;7;65;113
+2022;Thüringen;weiblich;1000 bis unter 1250 EUR;152;60;/;61;91
+2022;Thüringen;weiblich;1250 bis unter 1500 EUR;122;69;/;70;52
+2022;Thüringen;weiblich;1500 bis unter 1750 EUR;115;69;/;69;45
+2022;Thüringen;weiblich;1750 bis unter 2000 EUR;82;54;/;55;28
+2022;Thüringen;weiblich;2000 bis unter 2500 EUR;105;78;/;78;27
+2022;Thüringen;weiblich;2500 bis unter 3000 EUR;37;31;/;31;6
+2022;Thüringen;weiblich;3000 bis unter 3500 EUR;20;18;/;18;/
+2022;Thüringen;weiblich;3500 EUR und mehr;22;21;/;21;/
+2022;Thüringen;weiblich;Ohne Angabe;/;/;/;/;/
+2022;Thüringen;weiblich;Insgesamt;1052;475;14;489;563
+2022;Thüringen;Insgesamt;Kein Einkommen;322;/;/;/;316
+2022;Thüringen;Insgesamt;unter 500 EUR;104;25;/;31;73
+2022;Thüringen;Insgesamt;500 bis unter 1000 EUR;299;98;16;114;185
+2022;Thüringen;Insgesamt;1000 bis unter 1250 EUR;257;92;/;94;163
+2022;Thüringen;Insgesamt;1250 bis unter 1500 EUR;230;126;/;128;102
+2022;Thüringen;Insgesamt;1500 bis unter 1750 EUR;229;150;/;151;77
+2022;Thüringen;Insgesamt;1750 bis unter 2000 EUR;184;135;/;135;49
+2022;Thüringen;Insgesamt;2000 bis unter 2500 EUR;240;191;/;192;49
+2022;Thüringen;Insgesamt;2500 bis unter 3000 EUR;97;85;/;85;11
+2022;Thüringen;Insgesamt;3000 bis unter 3500 EUR;54;50;/;50;/
+2022;Thüringen;Insgesamt;3500 EUR und mehr;68;65;/;65;/
+2022;Thüringen;Insgesamt;Ohne Angabe;/;/;/;/;/
+2022;Thüringen;Insgesamt;Insgesamt;2084;1020;31;1051;1033
+__________
+© Statistisches Bundesamt (Destatis), 2023
+Stand: 29.06.2023 / 18:40:40
