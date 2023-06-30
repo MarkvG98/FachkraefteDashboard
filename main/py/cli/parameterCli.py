@@ -1,4 +1,4 @@
-from main.py.pandas.dataAnalysisTesting import getDictForDE
+from main.py.pandas.dataAnalysis import getDictForDE
 
 # Lose typisiere Sprachen treiben mich irgendwann noch in den Wahnsinn ahgdfkghsrdhgidofusgergkdfg
 # Dieser ganze Aufstand hätte verhindert werden können, aber wer ahnt schon das Python bei Division als
