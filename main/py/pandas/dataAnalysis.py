@@ -18,13 +18,14 @@ def set_pandas_display_options() -> None:
 
 set_pandas_display_options()
 
+testData = ['04158','04357','04205','06774','09243','06774','09430','04703','07955','06888']
 
 def getDictForDE(pagesToShow: int, onlyCompleteDatasets: bool):
     data = []
-    for psDict in getPostalData():
-        # Fehlervorbeugung, Check ob das returnte Dictionary wirklich nur eine PLZ enthält und ein 5-Stelliger Code ist
-        if len(psDict) == 1 and len(psDict.get('plz')) == 5:
-            ps = psDict.get('plz')
+     # for ps in getPostalData():
+    for ps in testData:
+        # Fehlervorbeugung, Check ob ein 5-Stelliger Code PLZ-Code
+        if len(ps) == 5:
             for i in range(pagesToShow):
                 jobsForPage = con.getHTTPResponse(i + 1, ps).json()
                 time.sleep(1)
@@ -68,20 +69,15 @@ def getDictForDE(pagesToShow: int, onlyCompleteDatasets: bool):
         # Zwischenspeichern falls der Gerät uns abraucht
 
 
-
 def getPostalData() -> []:
     home_path = '../../import/geo_dataset.json'
     data = []
     f = open(home_path)
     cityCodes = json.load(f)
     for gemeinde in cityCodes["gemeinden"]:
-        dict = {
-            # Rausgenommen, weil nicht zuordbar
-            # "id": gemeinde.get("id", None),
-            "plz": gemeinde.get("postleitzahl", None)
-        }
-        if (dict not in data):
-            data.append(dict)
+        plz = gemeinde.get("postleitzahl", None)
+        if (plz not in data):
+            data.append(plz)
     f.close()
     return data
 
