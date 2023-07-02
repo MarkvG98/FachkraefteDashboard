@@ -29,7 +29,7 @@ class RestApiConnector:
             "wo": postalCode,
             "umkreis": "0",
             "arbeitszeit": "ho;mj",
-            "page": "1",
+            "page": page,
             "size": "25",
             "pav": "false"
         }
