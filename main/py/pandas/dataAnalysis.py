@@ -18,12 +18,11 @@ def set_pandas_display_options() -> None:
 
 set_pandas_display_options()
 
-testData = ['04158','04357','04205','06774','09243','06774','09430','04703','07955','06888']
 
 def getDictForDE(pagesToShow: int, onlyCompleteDatasets: bool):
     data = []
-     # for ps in getPostalData():
-    for ps in testData:
+    for psDict in getPostalData():
+        ps = psDict.get("plz")
         # Fehlervorbeugung, Check ob ein 5-Stelliger Code PLZ-Code
         if len(ps) == 5:
             for i in range(pagesToShow):
@@ -75,9 +74,11 @@ def getPostalData() -> []:
     f = open(home_path)
     cityCodes = json.load(f)
     for gemeinde in cityCodes["gemeinden"]:
-        plz = gemeinde.get("postleitzahl", None)
-        if (plz not in data):
-            data.append(plz)
+        dict = {
+            "plz": gemeinde.get("postleitzahl", None)
+        }
+        if (dict not in data):
+            data.append(dict)
     f.close()
     return data
 
