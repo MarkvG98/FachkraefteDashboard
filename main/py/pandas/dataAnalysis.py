@@ -21,10 +21,12 @@ set_pandas_display_options()
 
 def getDictForDE(pagesToShow: int, onlyCompleteDatasets: bool):
     data = []
+    dfjson = pd.DataFrame()
     for psDict in getPostalData():
-        # Fehlervorbeugung, Check ob das returnte Dictionary wirklich nur eine PLZ enthält und ein 5-Stelliger Code ist
-        if len(psDict) == 1 and len(psDict.get('plz')) == 5:
-            ps = psDict.get('plz')
+        ps = psDict.get("plz")
+        # Fehlervorbeugung, Check ob ein 5-Stelliger Code PLZ-Code
+        print("Ping")
+        if len(ps) == 5 and ps.startswith("0"):
             for i in range(pagesToShow):
                 jobsForPage = con.getHTTPResponse(i + 1, ps).json()
                 time.sleep(1)
@@ -53,7 +55,7 @@ def getDictForDE(pagesToShow: int, onlyCompleteDatasets: bool):
                         # Ja, das muss hier wirklich stehen, damit die API einen nicht rauswirft.
                         print("Insgesamt " + str(len(data)) + " Jobs")
 
-                        if len(data) >= 2500:
+                        if len(data) >= 250:
                             df_codes = pd.DataFrame.from_dict(getPostalData())
                             df_nach_stellenangeboten = pd.DataFrame.from_dict(data)
                             df_nach_stellenangeboten.sort_values(by=["beruf"])
@@ -63,10 +65,15 @@ def getDictForDE(pagesToShow: int, onlyCompleteDatasets: bool):
                             with open('returnData.json', 'a') as file:
                                 json.dump(json.loads(dfjson), file)
                             data.clear()
-
-        print("Ortschaft " + ps + " abgearbeitet")
+        if ps.startswith('0'):
+            print("Ortschaft " + ps + " abgearbeitet")
         # Zwischenspeichern falls der Gerät uns abraucht
-
+    print("Ende")
+    with open('returnData.json', 'a') as file:
+        if(not dfjson.empty):
+            jsDf = dfjson.to_json(orient= "records")
+            json.dump(json.loads(jsDf), file)
+        data.clear()
 
 
 def getPostalData() -> []:
@@ -76,8 +83,6 @@ def getPostalData() -> []:
     cityCodes = json.load(f)
     for gemeinde in cityCodes["gemeinden"]:
         dict = {
-            # Rausgenommen, weil nicht zuordbar
-            # "id": gemeinde.get("id", None),
             "plz": gemeinde.get("postleitzahl", None)
         }
         if (dict not in data):

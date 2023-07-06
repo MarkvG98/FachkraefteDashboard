@@ -1,0 +1,154 @@
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DXApplication2.exe.config
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DXApplication2.exe
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DXApplication2.pdb
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.BonusSkins.v23.1.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.Map.v23.1.Core.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraMap.v23.1.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraPrinting.v23.1.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraLayout.v23.1.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraBars.v23.1.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.RichEdit.v23.1.Core.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraTreeList.v23.1.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.Office.v23.1.Core.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.Map.v23.1.Core.xml
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraMap.v23.1.xml
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraPrinting.v23.1.xml
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraLayout.v23.1.xml
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraBars.v23.1.xml
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraTreeList.v23.1.xml
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.Office.v23.1.Core.xml
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\obj\Debug\DXApplication2.csproj.AssemblyReference.cache
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\obj\Debug\DXApplication2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\obj\Debug\DXApplication2.Form1.resources
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\obj\Debug\DXApplication2.Properties.Resources.resources
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\obj\Debug\DXApplication2.csproj.GenerateResource.cache
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\obj\Debug\DXApplication2.exe.licenses
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\obj\Debug\DXApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\obj\Debug\DXApplication2.csproj.CopyComplete
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\obj\Debug\DXApplication2.exe
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\obj\Debug\DXApplication2.pdb
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.Charts.v23.1.Core.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.CodeParser.v23.1.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.DataAccess.v23.1.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.Utils.v23.1.UI.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.Xpo.v23.1.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraCharts.v23.1.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraCharts.v23.1.UI.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraCharts.v23.1.Wizard.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraRichEdit.v23.1.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraVerticalGrid.v23.1.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.DataVisualization.v23.1.Core.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraGrid.v23.1.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraNavBar.v23.1.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.Images.v23.1.dll
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.Charts.v23.1.Core.xml
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.DataAccess.v23.1.xml
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.Utils.v23.1.UI.xml
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.Xpo.v23.1.xml
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraCharts.v23.1.xml
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraCharts.v23.1.UI.xml
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraCharts.v23.1.Wizard.xml
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraRichEdit.v23.1.xml
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraVerticalGrid.v23.1.xml
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraGrid.v23.1.xml
+C:\Users\Mark van Gelder\source\repos\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraNavBar.v23.1.xml
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DXApplication2.exe.config
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DXApplication2.exe
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DXApplication2.pdb
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.BonusSkins.v23.1.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.Charts.v23.1.Core.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.CodeParser.v23.1.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.Data.v23.1.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.DataAccess.v23.1.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.Map.v23.1.Core.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.Office.v23.1.Core.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.RichEdit.v23.1.Core.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.Utils.v23.1.UI.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.Xpo.v23.1.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraBars.v23.1.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraCharts.v23.1.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraCharts.v23.1.UI.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraCharts.v23.1.Wizard.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraMap.v23.1.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraPrinting.v23.1.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraTreeList.v23.1.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraLayout.v23.1.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraRichEdit.v23.1.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraVerticalGrid.v23.1.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.DataVisualization.v23.1.Core.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraGrid.v23.1.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraNavBar.v23.1.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.Images.v23.1.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.Charts.v23.1.Core.xml
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.Data.v23.1.xml
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.DataAccess.v23.1.xml
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.Map.v23.1.Core.xml
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.Office.v23.1.Core.xml
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.Utils.v23.1.UI.xml
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.Xpo.v23.1.xml
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraBars.v23.1.xml
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraCharts.v23.1.xml
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraCharts.v23.1.UI.xml
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraCharts.v23.1.Wizard.xml
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraMap.v23.1.xml
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraPrinting.v23.1.xml
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraTreeList.v23.1.xml
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraLayout.v23.1.xml
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraRichEdit.v23.1.xml
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraVerticalGrid.v23.1.xml
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraGrid.v23.1.xml
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraNavBar.v23.1.xml
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\obj\Debug\DXApplication2.csproj.AssemblyReference.cache
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\obj\Debug\DXApplication2.csproj.SuggestedBindingRedirects.cache
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\obj\Debug\DXApplication2.Form1.resources
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\obj\Debug\DXApplication2.Properties.Resources.resources
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\obj\Debug\DXApplication2.csproj.GenerateResource.cache
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\obj\Debug\DXApplication2.exe.licenses
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\obj\Debug\DXApplication2.csproj.CoreCompileInputs.cache
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\obj\Debug\DXApplication2.csproj.CopyComplete
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\obj\Debug\DXApplication2.exe
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\obj\Debug\DXApplication2.pdb
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraGauges.v23.1.Core.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraGauges.v23.1.Win.dll
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraGauges.v23.1.Core.xml
+C:\projects\dashboard\FachkraefteDashboard\main\report\DevExpressC\DXApplication2\DXApplication2\bin\Debug\DevExpress.XtraGauges.v23.1.Win.xml
